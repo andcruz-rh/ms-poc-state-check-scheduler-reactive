@@ -1,6 +1,0 @@
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-state-check-scheduler-reactive/src/main/java/com/empresa/financiera/application/service/BusinessTaskService.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-state-check-scheduler-reactive/src/main/java/com/empresa/financiera/application/StatefulJobService.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-state-check-scheduler-reactive/src/main/java/com/empresa/financiera/domain/model/ExecutionLog.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-state-check-scheduler-reactive/src/main/java/com/empresa/financiera/infrastructure/repository/ExecutionLogRepository.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-state-check-scheduler-reactive/src/main/java/com/empresa/financiera/infrastructure/service/MockParameterService.java
-/home/andcruz/Documents/Compartamos/PoC/ms-poc-state-check-scheduler-reactive/src/main/java/com/empresa/financiera/domain/model/JobParameters.java

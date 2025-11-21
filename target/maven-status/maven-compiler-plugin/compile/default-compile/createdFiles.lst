@@ -1,6 +1,0 @@
-com/empresa/financiera/infrastructure/service/MockParameterService.class
-com/empresa/financiera/domain/model/ExecutionLog.class
-com/empresa/financiera/application/service/BusinessTaskService.class
-com/empresa/financiera/application/StatefulJobService.class
-com/empresa/financiera/infrastructure/repository/ExecutionLogRepository.class
-com/empresa/financiera/domain/model/JobParameters.class
